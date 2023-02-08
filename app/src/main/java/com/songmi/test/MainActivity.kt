@@ -1,7 +1,8 @@
-package com.songmi
+package com.songmi.test
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.songmi.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
